@@ -1,7 +1,7 @@
 # Orders Dashboard  
 
 ## Live Dashboard
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open-blue)](https://lookerstudio.google.com/u/0/reporting/eb22059b-784a-4e1d-9ca6-35d4978e3fd3)
+[Open Live Dashboard](https://lookerstudio.google.com/u/0/reporting/eb22059b-784a-4e1d-9ca6-35d4978e3fd3)
 
 ---
 
