@@ -1,6 +1,6 @@
 # Orders Dashboard  
 
-[🔗 Live Demo]((https://lookerstudio.google.com/u/0/reporting/eb22059b-784a-4e1d-9ca6-35d4978e3fd3/page/I6JUF))
+[🔗 Live Demo]([(https://lookerstudio.google.com/u/0/reporting/eb22059b-784a-4e1d-9ca6-35d4978e3fd3/page/I6JUF)](https://lookerstudio.google.com/u/0/reporting/eb22059b-784a-4e1d-9ca6-35d4978e3fd3/page/I6JUF))
 ---
 
 ## Overview
